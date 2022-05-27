@@ -23,7 +23,7 @@ export function Form() {
             className= ' bg-zinc-400 hover:bg-zinc-500 w-full  border-2 border-gray-800 focus:border-black rounded px-2 py-1 text-base text-white placeholder-zinc-100 focus:outline-none transition duration-150 ease-out hover:ease-in'
             onChange={(e) => setEmail(e.target.value)}
             type="email" id = 'email'
-            placeholder="digite eu email"
+            placeholder="digite seu email"
           />
         </div>
         <div>
