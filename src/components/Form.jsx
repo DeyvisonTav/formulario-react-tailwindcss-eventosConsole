@@ -10,7 +10,7 @@ export function Form() {
 
   return (
     <div  className='w-80  '>
-        <h2 className='text-black text-center text-base '>formulario</h2>
+        <h2 className='text-black text-center text-base '>formulário</h2>
         <br />
       <form 
       className='bg-zinc-900 shadow-md rounded-md p-4 space-y-4'
