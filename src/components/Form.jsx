@@ -14,8 +14,8 @@ export function Form(user) {
   }
 
   return (
-    <div className="w-80  ">
-      <h2 className="text-black text-center text-base ">formulário</h2>
+    <div className="w-96  ">
+      <h2 className="text-white text-center text-base ">formulário</h2>
       <br />
       <form
         className="bg-zinc-900 shadow-md rounded-md p-4 space-y-4"
